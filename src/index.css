@@ -1,0 +1,27 @@
+*{
+  margin: 30px;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(86, 78, 86);
+}
+.form{
+  height: 300px;
+  width: 400px;
+  padding: 50px;
+  background-color:rgb(219, 215, 215);
+  border-radius: 3px solid rgb(219, 215, 215);
+  margin:20px;
+  text-align: center;
+  margin: 40px;
+
+}
+.h1{
+  text-align: center;
+}
+.btn{
+  padding: 15px;
+  color:rgb(31, 31, 31);
+margin-top: 10px;
+background-color: yellow;
+
+}
